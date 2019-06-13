@@ -1,0 +1,4 @@
+# https://www.netlify.com/docs/redirects/
+/nuc-power https://github.com/mje-nz/nuc-power
+/proto https://github.com/mje-nz/protoboard
+/ref https://blog.mje.nz/2019-06-09-reference-material/
